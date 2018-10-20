@@ -2,6 +2,7 @@
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
+- Mesa Utils (glxinfo, glxgears...)
 - Qt 5
 - Qt Creator Community
 - CMake
