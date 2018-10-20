@@ -1,4 +1,4 @@
-# Qt Creator VirtualBox
+# Qt Creator VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Qt-Creator-VirtualBox/releases/download/latest/QtCreator.ova)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
