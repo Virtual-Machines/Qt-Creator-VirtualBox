@@ -1,7 +1,7 @@
 # Qt Creator VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Qt-Creator-VirtualBox/releases/download/latest/QtCreator.ova)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
-- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
+- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Mesa Utils (glxinfo, glxgears...)
 - Qt 5 and Qt Creator Community IDE
 - CMake, qmake, g++, gcc and GDB
