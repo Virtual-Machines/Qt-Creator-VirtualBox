@@ -7,6 +7,7 @@
 - CMake, qmake, g++, gcc and GDB
 - Basic python http server included. Example: python3 -m http.server 8080
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
+- User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
