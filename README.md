@@ -13,5 +13,4 @@
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
 **GALLERY**
-
-![Qt Creator](https://github.com/Virtual-Machines/Qt-Creator-VirtualBox/blob/master/qtCreator.png)
+![Qt Creator](https://raw.githubusercontent.com/Virtual-Machines/Qt-Creator-VirtualBox/master/qtCreator.png)
