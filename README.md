@@ -1,4 +1,7 @@
 # Qt Creator VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Qt-Creator-VirtualBox/releases/download/latest/QtCreator.ova) - [VIDEO](https://www.youtube.com/watch?v=-L6Gbl3Feng)
+
+[**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link) - 
+
 ![Qt Creator](https://raw.githubusercontent.com/Virtual-Machines/Qt-Creator-VirtualBox/master/qtCreator.png)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
